@@ -49,14 +49,16 @@
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
                     </button>
                 </div>
                 <div class="collapse navbar-collapse" id="myNavbar">
                     <ul class="nav navbar-nav">
-                        <li class="active"><a href="Default.aspx">Trang Chủ</a></li>
+                        <li class="active"><a href="TrangChu.aspx">Trang Chủ</a></li>
                         <li><a href="About.aspx">Lập Trình C++</a></li>
                         <li><a href="#">Page 2</a></li>
                         <li><a href="#">Page 3</a></li>
+                        <li><a href="BookList.aspx">Books</a></li>
                     </ul>
                 </div>
             </div>
@@ -64,7 +66,7 @@
          <!--******thêm logo*****-->
         <div id="TitleContent" style="text-align: center">
             <a runat="server" >
-                <a class="lg" href="Default.aspx"><span style="background-color:#ff8c00;">Coder</span> Libary</a>
+                <a class="lg" href="TrangChu.aspx"><span style="background-color:#ff8c00;">Coder</span> Libary</a>
                 <%--<asp:Image ID="Image1" runat="server" ImageUrl="~/Images/book_logo.jpg" BorderStyle="None" />--%>
             </a><br />
         </div> 

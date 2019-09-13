@@ -46,3 +46,47 @@
 #text{
     color: #fff;
 }
+#trangchu {
+    width: 90%;
+    /*height: 500px;*/
+    margin: auto;
+    margin-top: 1em;
+}
+
+.gioithieu {
+    height: 950px;
+    background-color: #FF6347;
+    width: 100%;
+    border-bottom: 20px solid #ffffff;
+    display: block;
+}
+.title {
+    height: 50px;
+    width: 40%;
+    /*border:1px solid white;*/
+    text-align: center;
+    margin: 0 auto;
+    line-height: 50px;
+    font-weight: bold;
+    font-size: 1.5em;
+    color: #fff;
+}
+.noidung {
+    width: 90%;
+    /*height:70px;*/
+    margin: 0 auto;
+}
+
+    .noidung h3 {
+        color: #fff;
+    }
+
+    .noidung img {
+        margin: 0 auto;
+        display: block;
+    }
+
+    .noidung p {
+        text-align: justify;
+        color: #fff;
+    }

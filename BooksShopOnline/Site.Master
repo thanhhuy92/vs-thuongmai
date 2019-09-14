@@ -55,7 +55,7 @@
                 <div class="collapse navbar-collapse" id="myNavbar">
                     <ul class="nav navbar-nav">
                         <li class="active"><a href="TrangChu.aspx">Trang Chủ</a></li>
-                        <li><a href="About.aspx">Lập Trình C++</a></li>
+                        <li><a href="LienHe.aspx">Liên Hệ</a></li>
                         <li><a href="#">Page 2</a></li>
                         <li><a href="#">Page 3</a></li>
                         <li><a href="BookList.aspx">Books</a></li>
